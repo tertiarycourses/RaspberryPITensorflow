@@ -1,0 +1,1 @@
+python retrain_model_classifier.py D:\_Training\RaspberryPi_Tensorflow\Code_rpi_tf\image_classification_flowers\testfowers\rose1.jpg

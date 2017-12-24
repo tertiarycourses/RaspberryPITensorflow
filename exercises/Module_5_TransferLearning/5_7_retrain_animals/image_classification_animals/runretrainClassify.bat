@@ -1,0 +1,1 @@
+python retrain_model_classifier.py .\test\rose1.jpg

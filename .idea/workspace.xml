@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a83212b3-4dfa-4508-90ea-bb75156d2569" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="module3_2A_nn_iris_challenge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_2A_nn_iris_challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1314">
+              <caret line="60" column="60" lean-forward="false" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module4_1A_cnn_mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1A_cnn_mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="painting_mnist1A.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_4_CNN/painting_mnist1A.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="106" column="19" lean-forward="true" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module4_2_cnn_cifar_challenge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module4_2_cnn_cifar_challenge_delpoy1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge_delpoy1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module5_1_keras_nn_mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module5_1_keras_nn_mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1050">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keras_cnn_mnist_save.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN/keras_cnn_mnist_save.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1161">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keras_cnn_mnist_load.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN/keras_cnn_mnist_load.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module5_4_keras_inception_prediction_challenge.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module5_4_keras_inception_prediction_challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module5_5_keras_inceptionv2_transfer_learning_challenge.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module5_5_keras_inceptionv2_transfer_learning_challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-412">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_0_cifar_dataset.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge_delpoy.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge_delpoy1.py" />
+        <option value="$PROJECT_DIR$/Module_5_TransferLearning/TestInception/testinception.py" />
+        <option value="$PROJECT_DIR$/module9_7_keras_vgg_transfer_learning.py" />
+        <option value="$PROJECT_DIR$/Module_5_TransferLearning/module9_7_keras_vgg_transfer_learning.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/ImageResize.py" />
+        <option value="$PROJECT_DIR$/Module_5_TransferLearning/module9_8_keras_inceptionv2_transfer_learning_challenge.py" />
+        <option value="$PROJECT_DIR$/Module_5_TransferLearning/module9_8_keras_inceptionv2_transfer_learning_challenge_deploy.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_1_cnn_mnist_delpoy.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_1_cnn_mnist.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/painting_mnist1A.py" />
+        <option value="$PROJECT_DIR$/Module_5_TransferLearning/module9_6_keras_inception_prediction_challenge.py" />
+        <option value="$PROJECT_DIR$/Module_5_TransferLearning/module9_7_keras_vgg_transfer_learning_deploy.py" />
+        <option value="$PROJECT_DIR$/Module_3_DeepLearning/module3_1_nn_mnist.py" />
+        <option value="$PROJECT_DIR$/Module_3_DeepLearning/module3_1A_nn_mnist.py" />
+        <option value="$PROJECT_DIR$/Module_3_DeepLearning/module3_1A_nn_mnist_delpoy.py" />
+        <option value="$PROJECT_DIR$/Module_3_DeepLearning/painting_mnist_nnA.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_1A_cnn_mnist_delpoy.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_1B_cnn_mnist.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_1B_cnn_mnist_delpoy.py" />
+        <option value="$PROJECT_DIR$/Module_3_DeepLearning/module3_2A_nn_iris_challenge.py" />
+        <option value="$PROJECT_DIR$/Module_3_DeepLearning/module3_2A_nn_iris_challenge_deloy.py" />
+        <option value="$PROJECT_DIR$/Module_2_MachineLearning/module2_1_simple_TF_operations.py" />
+        <option value="$PROJECT_DIR$/Module_2_MachineLearning/module2_2_mnist_demo.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_1A_cnn_mnist.py" />
+        <option value="$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="57" />
+    <option name="y" value="302" />
+    <option name="width" value="1179" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Code_rpi_tf_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_rpi_tf_release" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code_rpi_tf_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_rpi_tf_release" type="462c0819:PsiDirectoryNode" />
+              <item name="Module_1_GetingStart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code_rpi_tf_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_rpi_tf_release" type="462c0819:PsiDirectoryNode" />
+              <item name="Module_2_MachineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code_rpi_tf_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_rpi_tf_release" type="462c0819:PsiDirectoryNode" />
+              <item name="Module_3_DeepLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code_rpi_tf_release" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code_rpi_tf_release" type="462c0819:PsiDirectoryNode" />
+              <item name="Module_5_TransferLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.module5_4_keras_inception_prediction_challenge">
+    <configuration name="keras_cnn_mnist_load" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code_rpi_tf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN/keras_cnn_mnist_load.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="keras_cnn_mnist_save" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code_rpi_tf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN/keras_cnn_mnist_save.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="module4_2_cnn_cifar_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_4_CNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code_rpi_tf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="module5_4_keras_inception_prediction_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_5_TransferLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code_rpi_tf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_5_TransferLearning/module5_4_keras_inception_prediction_challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="painting_mnist1A" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Module_4_CNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code_rpi_tf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module_4_CNN/painting_mnist1A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.painting_mnist1A" />
+      <item index="1" class="java.lang.String" itemvalue="Python.module4_2_cnn_cifar_challenge" />
+      <item index="2" class="java.lang.String" itemvalue="Python.keras_cnn_mnist_save" />
+      <item index="3" class="java.lang.String" itemvalue="Python.keras_cnn_mnist_load" />
+      <item index="4" class="java.lang.String" itemvalue="Python.module5_4_keras_inception_prediction_challenge" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.module5_4_keras_inception_prediction_challenge" />
+        <item index="1" class="java.lang.String" itemvalue="Python.keras_cnn_mnist_load" />
+        <item index="2" class="java.lang.String" itemvalue="Python.keras_cnn_mnist_save" />
+        <item index="3" class="java.lang.String" itemvalue="Python.module4_2_cnn_cifar_challenge" />
+        <item index="4" class="java.lang.String" itemvalue="Python.painting_mnist1A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a83212b3-4dfa-4508-90ea-bb75156d2569" name="Default" comment="" />
+      <created>1513053594299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513053594299</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1618" height="918" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.428125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100653596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_1_keras_nn_mnist.py" />
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/ImageResize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/TestInception/testinception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9972">
+          <caret line="574" column="19" lean-forward="false" selection-start-line="574" selection-start-column="19" selection-end-line="574" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_3_keras_cnn_mnist.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_8_keras_inceptionv2_transfer_learning_challenge.py" />
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1_cnn_mnist_delpoy.py" />
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/painting_mnist1.py" />
+    <entry file="file://$PROJECT_DIR$/Painting/painting_mnist1.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_5_keras_vgg_prediction.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_8_keras_inceptionv2_transfer_learning_challenge_deploy.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_7_keras_vgg_transfer_learning.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_6_keras_inception_prediction_challenge.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module9_7_keras_vgg_transfer_learning_deploy.py" />
+    <entry file="file://$PROJECT_DIR$/retrain_animals/img_class_animals_prod/retrain_model_classifier.py" />
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_1_nn_mnist_delpoy.py" />
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_1_nn_mnist.py" />
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/painting_mnist_nn.py" />
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1324" column="21" lean-forward="false" selection-start-line="1324" selection-start-column="21" selection-end-line="1324" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1_cnn_mnist.py" />
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1A_cnn_mnist_delpoy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge_delpoy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="98" column="24" lean-forward="false" selection-start-line="98" selection-start-column="24" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1B_cnn_mnist.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/testpb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrain/img_class_flowers_prod/retrain_model_classifier.py" />
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1B_cnn_mnist_delpoy.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/kreasCNN/painting_kerasmnistcnn.py" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/kreasCNN/cnn_model.json" />
+    <entry file="file://$PROJECT_DIR$/retrain/image_classification_flowers/runretrain.bat" />
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/kreasCNN/keras_cnn_mnist_save.py" />
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_2_nn_iris_challenge_deloy.py" />
+    <entry file="file://D:/ProgramData/Anaconda3/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="746" column="0" lean-forward="false" selection-start-line="746" selection-start-column="0" selection-end-line="746" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_2_MachineLearning/module2_1_simple_TF_operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="183" column="0" lean-forward="true" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_2_MachineLearning/tmp/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_2_MachineLearning/module2_2_mnist_demo_deploy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_2_MachineLearning/module2_2_mnist_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_2_MachineLearning/tmp_iris/iris.ckpt.meta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/painting_mnist_nnA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="134" column="10" lean-forward="true" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_1A_nn_mnist_delpoy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="75" column="50" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="75" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_2_MachineLearning/module2_3_iris_challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_2A_nn_iris_challenge_deloy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438">
+          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_2A_nn_iris_challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="60" column="60" lean-forward="false" selection-start-line="60" selection-start-column="60" selection-end-line="60" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_1A_cnn_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/painting_mnist1A.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="106" column="19" lean-forward="true" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_4_CNN/module4_2_cnn_cifar_challenge_delpoy1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_3_DeepLearning/module3_1A_nn_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module5_1_keras_nn_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN/keras_cnn_mnist_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1161">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/5_2A_kreasCNN/keras_cnn_mnist_load.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module5_4_keras_inception_prediction_challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module_5_TransferLearning/module5_5_keras_inceptionv2_transfer_learning_challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-412">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
