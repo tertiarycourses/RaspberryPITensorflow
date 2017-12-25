@@ -8,6 +8,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/machine-learning-raspberry-pi-tensorflow.html
 
+https://www.tertiarycourses.com.my/machine-learning-raspberry-pi-tensorflow-malaysia.html
+
 
 <p><strong>Module 1 Get Started</strong></p>
 <ul>
